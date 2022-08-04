@@ -16,11 +16,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    site_type: LocalBusiness
+    local_business_type: 'ProfessionalService'
+    org_name: 'PMU artist Olga Sugakova'
+    description: 'Permanet makeup artist in Belgium - Olga Sugakova'
+    instagram: 'olga_sugakova'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,7 +33,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
