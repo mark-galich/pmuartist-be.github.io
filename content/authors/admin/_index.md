@@ -42,7 +42,7 @@ social:
     link: https://www.facebook.com/profile.php?id=100011675761171
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/olga_sugakova/
+    link: https://www.instagram.com/sugakova_europe/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sugakovapm/
@@ -64,4 +64,3 @@ highlight_name: true
 Hello. My name  - Olga Sugakova. I am artist of scalp micropigmentation and permanent makeup professional with apllied arts background and demonstrated ability to create distinctive and stunning works.
 Through nearly 16 years in profession, i built my original autor's techniques, which i have been teaching throughout the Commonwealth, EU and North America. 
 I bring a diverse mix of leadership and artistic abilities to any studio or creative endeavor.
-
