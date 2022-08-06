@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: sugakovapm@gmail.com
+  phone: +32 470 28 05 58
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Regine Beerplein 1/D004
+    city: Antwerpen
+    region: Vlaams gewest van België
+    postcode: '2018'
+    country: Belgium
+    country_code: BE
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '51.2024223'
+    longitude: '4.421789'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
     - 'Monday 10:00 to 13:00'
