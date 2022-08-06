@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2006-2022 Olga Sugakova. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,7 +55,7 @@ footer:
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/mark-galich/pmuartist-be.github.io'
     content_dir: content
     branch: master
   avatar:
